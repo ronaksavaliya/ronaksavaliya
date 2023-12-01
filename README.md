@@ -23,7 +23,7 @@ I am always open to connecting with fellow developers, designers, and tech enthu
 
 ### Contact Info
 - **Email:** ronak.savaliya@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ronak-savaliya-369b9b227/)
+- **LinkedIn:** https://www.linkedin.com/in/ronak-savaliya-369b9b227/
 
 
 Thank you for visiting my GitHub profile. Let's build amazing things together! 🚀
