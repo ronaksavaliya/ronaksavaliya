@@ -21,4 +21,9 @@ The dynamic nature of web development excites me, and I am committed to staying 
 ### 🤝 Let's Connect
 I am always open to connecting with fellow developers, designers, and tech enthusiasts. Feel free to reach out if you want to discuss projects, share insights, or collaborate on exciting opportunities.
 
+### Contact Info
+- **Email:** ronak.savaliya@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ronak-savaliya-369b9b227/)
+
+
 Thank you for visiting my GitHub profile. Let's build amazing things together! 🚀
