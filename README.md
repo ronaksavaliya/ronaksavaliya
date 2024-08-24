@@ -22,7 +22,7 @@ The dynamic nature of web development excites me, and I am committed to staying 
 I am always open to connecting with fellow developers, designers, and tech enthusiasts. Feel free to reach out if you want to discuss projects, share insights, or collaborate on exciting opportunities.
 
 ### Contact Info
-- **Email:** ronak.savaliya@gmail.com
+- **Email:** ronak.savaliya1722@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/ronak-savaliya-369b9b227/
 
 
