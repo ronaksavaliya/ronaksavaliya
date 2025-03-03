@@ -1,7 +1,7 @@
 ## Hello, I'm Ronak Savaliya
 
 ### 👨‍💻 About Me
-I am a passionate Frontend Developer with over 2 years of professional experience. My journey in web development has been marked by a love for creating delightful user experiences and solving complex problems through code.
+I am a passionate Frontend Developer with over 4+ years of professional experience. My journey in web development has been marked by a love for creating delightful user experiences and solving complex problems through code.
 
 ### 🚀 Skills
 - **Languages:** JavaScript, TypeScript
@@ -10,7 +10,7 @@ I am a passionate Frontend Developer with over 2 years of professional experienc
 - **Responsive Design:** Ensuring seamless experiences across various devices
 
 ### 💼 Professional Experience
-In my 2 years as a Frontend Developer, I have had the opportunity to work on a diverse range of projects. From crafting interactive user interfaces with React.js and Next.js to implementing scalable and maintainable code, I take pride in delivering high-quality solutions.
+In my 4+ years as a Frontend Developer, I have had the opportunity to work on a diverse range of projects. From crafting interactive user interfaces with React.js and Next.js to implementing scalable and maintainable code, I take pride in delivering high-quality solutions.
 
 ### 🏆 Problem-Solving Skills
 My expertise extends beyond coding to encompass strong problem-solving skills. I enjoy tackling challenging issues and finding innovative solutions. This passion extends to my participation in coding challenges on platforms like HackerRank and CodeChef.
